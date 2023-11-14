@@ -4,7 +4,6 @@ You can find my completed solution here:
 
 https://twitchinanutshel.github.io/Chat-App-CSS/
 
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 All of the details about this challenge from frontEndMentor:
